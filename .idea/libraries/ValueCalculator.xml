@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ValueCalculator">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ValueCalculator" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/ValueCalculator/src" />
+    </SOURCES>
+  </library>
+</component>
